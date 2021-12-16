@@ -1,0 +1,16 @@
+{
+  "name": "fm-image-shrink",
+  "version": "1.0.0",
+  "description": "Image shrink for Ferocious Media team by Norman Pleitez",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "nodemon --exec electron ."
+  },
+  "author": "Norman Pleitez",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^15.2.0",
+    "nodemon": "^2.0.13"
+  }
+}
